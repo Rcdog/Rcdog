@@ -2,7 +2,7 @@
 - 👀 I’m interested in web stuff
 - 🌱 I’m currently learning git bash html/css php 
 - 💞️ I’m looking to collaborate on nothing for now
-- 📫 How to reach me you don't 
+- 📫 How to reach me 
 
 <!---
 Rcdog/Rcdog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
